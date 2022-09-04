@@ -1,4 +1,4 @@
-![Foto bioparque](./assets/pumaEstanislao.JPG)
+![Foto bioparque](./assets/pumaEstanislao.jpg)
 
 # Estanislao, el puma ciego
 
